@@ -3,7 +3,10 @@
 ## 1. Getting Started
 Navigate to the executable folder and run the `CW2.exe` executable file to launch the application.
 
-Once the application is launched, you will be able to view the interface as shown in Figure 1.
+Once the application is launched, you will be able to view the interface as shown in below.
+
+<img width="239" alt="image" src="https://github.com/user-attachments/assets/c6cd75ea-b6d2-4c42-a5dd-5a81e7f4d046" />
+
 
 ---
 
