@@ -35,4 +35,4 @@ Developed By:
 ---
 
 ## 🧑‍💻 Usage
-The application offers a simple GUI but can also be used from a command line interface. For a detailed guide on application usage see [User Guide](../USER_GUIDE.md).
+The application offers a simple GUI but can also be used from a command line interface. For a detailed guide on application usage see [User Guide](User Guide.md).
