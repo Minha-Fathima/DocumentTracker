@@ -3,7 +3,7 @@
 ## 1. Getting Started
 Navigate to the executable folder and run the `CW2.exe` executable file to launch the application.
 
-Once the application is launched, you will be able to view the interface as shown in below.
+Once the application is launched, you will be able to view the interface as shown in figure 1.
 
 <img width="395" alt="image" src="https://github.com/user-attachments/assets/23f1fef6-3e62-4faf-84b5-92ef17a4ade9" />
 
@@ -12,7 +12,7 @@ Once the application is launched, you will be able to view the interface as show
 ---
 
 ## 2. Loading Data
-To begin your data analysis process, you can load your JSON data using the **"Load File"** button as shown below.
+To begin your data analysis process, you can load your JSON data using the **"Load File"** button as shown in figure 2.
 
 The button will open a file dialog menu allowing you to navigate and upload your desired JSON data file.
 
