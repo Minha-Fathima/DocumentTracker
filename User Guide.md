@@ -21,13 +21,16 @@ The button will open a file dialog menu allowing you to navigate and upload your
 ---
 
 ## 3. Data Analysis Tasks
-To view the available data analysis processes, you can click on the **"Analysis Task"** dropdown menu as shown below.
+To view the available data analysis processes, you can click on the **"Analysis Task"** dropdown menu as shown in figure 3.
 
 Based on the selected task, you will be asked to provide the **Document UUID** and (optionally) **Visitor UUID**, as shown in Figure 4.
 
 If no new fields open up, then no UUIDs are required.
 
-<img width="676" alt="image" src="https://github.com/user-attachments/assets/47fb444a-a919-4d19-b9f0-a87fc64a66a7" />
+<img width="282" alt="image" src="https://github.com/user-attachments/assets/1bc3fe07-1529-42d3-9768-5fb602d2e857" />
+
+<img width="281" alt="image" src="https://github.com/user-attachments/assets/8c7f931f-9b9a-4d5c-8519-99aa980e048c" />
+
 
 
 ---
