@@ -5,7 +5,7 @@ Navigate to the executable folder and run the `CW2.exe` executable file to launc
 
 Once the application is launched, you will be able to view the interface as shown in below.
 
-<img width="669" alt="image" src="https://github.com/user-attachments/assets/6b8cfdba-7bd2-4ce6-a7d1-1a65e4f6ddf6" />
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/23f1fef6-3e62-4faf-84b5-92ef17a4ade9" />
 
 
 
@@ -16,18 +16,19 @@ To begin your data analysis process, you can load your JSON data using the **"Lo
 
 The button will open a file dialog menu allowing you to navigate and upload your desired JSON data file.
 
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/ebcba8a0-ec14-4d80-8c80-53d37c514be5" />
-
-
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/b6f75dd7-5ca1-4222-8f7e-fbada1c50b7e" />
 
 ---
 
 ## 3. Data Analysis Tasks
-To view the available data analysis processes, you can click on the **"Analysis Task"** dropdown menu as shown in Figure 3.
+To view the available data analysis processes, you can click on the **"Analysis Task"** dropdown menu as shown below.
 
 Based on the selected task, you will be asked to provide the **Document UUID** and (optionally) **Visitor UUID**, as shown in Figure 4.
 
 If no new fields open up, then no UUIDs are required.
+
+<img width="676" alt="image" src="https://github.com/user-attachments/assets/47fb444a-a919-4d19-b9f0-a87fc64a66a7" />
+
 
 ---
 
@@ -37,6 +38,9 @@ Once you have selected your desired data analysis task, click on the **"Analyze"
 The visualizations will be displayed in the **Visualization Area**, as shown in Figure 5.
 
 You can hover over the visualizations to get more detailed information.
+
+<img width="281" alt="image" src="https://github.com/user-attachments/assets/b4aec4a2-0f54-4061-891f-241fe2740123" />
+
 
 ---
 
