@@ -3,7 +3,7 @@ This project is a **Python-based data analytics application** developed as part 
 
 Developed By:
  - Minha Fathima Avoor
- - Eman Ifthikhar
+ - Eman Iftikhar
 
 ---
 
