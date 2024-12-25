@@ -1,5 +1,5 @@
 # 📊 Data Analytics of a Document Tracker
-This project is a Python-based data analytics application developed as part of the F20SC Industrial Programming course. It is designed to analyze document tracking data from the issuu.com platform, providing insights into user behavior, viewing patterns, and document relationships through various data visualizations and interactive tools. The application combines advanced programming paradigms and data visualization techniques to create an intuitive user experience.
+This project is a **Python-based data analytics application** developed as part of the **F20SC Industrial Programming** course. It is designed to analyze document tracking data from the issuu.com platform, providing insights into user behavior, viewing patterns, and document relationships through various data visualizations and interactive tools. The application combines advanced programming paradigms and data visualization techniques to create an intuitive user experience.
 
 Developed By:
  - Minha Fathima Avoor
