@@ -82,8 +82,9 @@ To view insights in the Admin Dashboard:
 - Click on the **"Table"** button in the navigation panel to view a sorted table of all documents, showing the number of readers and the average time spent reading each document. The table is scrollable for large datasets (Figure 11).
 
 <img width="395" alt="image" src="https://github.com/user-attachments/assets/31e108ca-064a-40d6-a767-bac5704ada2d" />
-<img width="395" alt="image" src="https://github.com/user-attachments/assets/69eee909-19b0-4db4-846c-ecdfc06a2fb6" />
-<img width="395" alt="image" src="https://github.com/user-attachments/assets/1614ec83-d0b4-4241-8c77-217d9d15a9be" />
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/0985fa2d-c8b9-4c77-ae79-18f4c46ebe5a" />
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/1036e40e-c06b-47ba-b0d4-abf9a07cd91d" />
+
 
 ---
 
