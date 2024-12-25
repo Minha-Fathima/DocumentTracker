@@ -27,9 +27,9 @@ Based on the selected task, you will be asked to provide the **Document UUID** a
 
 If no new fields open up, then no UUIDs are required.
 
-<img width="282" alt="image" src="https://github.com/user-attachments/assets/1bc3fe07-1529-42d3-9768-5fb602d2e857" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/1bc3fe07-1529-42d3-9768-5fb602d2e857" />
 
-<img width="281" alt="image" src="https://github.com/user-attachments/assets/8c7f931f-9b9a-4d5c-8519-99aa980e048c" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/8c7f931f-9b9a-4d5c-8519-99aa980e048c" />
 
 
 
@@ -42,7 +42,8 @@ The visualizations will be displayed in the **Visualization Area**, as shown in 
 
 You can hover over the visualizations to get more detailed information.
 
-<img width="281" alt="image" src="https://github.com/user-attachments/assets/b4aec4a2-0f54-4061-891f-241fe2740123" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/65bd9f00-cd76-438c-bad2-b36c300fd046" />
+
 
 
 ---
