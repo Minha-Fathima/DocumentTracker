@@ -12,11 +12,12 @@ Once the application is launched, you will be able to view the interface as show
 ---
 
 ## 2. Loading Data
-To begin your data analysis process, you can load your JSON data using the **"Load File"** button as shown in Figure 2.
+To begin your data analysis process, you can load your JSON data using the **"Load File"** button as shown below.
 
 The button will open a file dialog menu allowing you to navigate and upload your desired JSON data file.
 
-<img width="669" alt="image" src="https://github.com/user-attachments/assets/025de3bb-c61a-40c9-b4e3-0a77f75f15ca" />
+<img width="45" alt="image" src="https://github.com/user-attachments/assets/c500b0f9-f761-4859-a648-e8586269f173" />
+
 
 ---
 
