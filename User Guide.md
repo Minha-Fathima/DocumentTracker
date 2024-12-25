@@ -16,7 +16,8 @@ To begin your data analysis process, you can load your JSON data using the **"Lo
 
 The button will open a file dialog menu allowing you to navigate and upload your desired JSON data file.
 
-<img width="45" alt="image" src="https://github.com/user-attachments/assets/c500b0f9-f761-4859-a648-e8586269f173" />
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/ebcba8a0-ec14-4d80-8c80-53d37c514be5" />
+
 
 
 ---
