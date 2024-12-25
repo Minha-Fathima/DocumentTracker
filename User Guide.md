@@ -16,6 +16,8 @@ To begin your data analysis process, you can load your JSON data using the **"Lo
 
 The button will open a file dialog menu allowing you to navigate and upload your desired JSON data file.
 
+<img width="669" alt="image" src="https://github.com/user-attachments/assets/025de3bb-c61a-40c9-b4e3-0a77f75f15ca" />
+
 ---
 
 ## 3. Data Analysis Tasks
