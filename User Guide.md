@@ -27,9 +27,9 @@ Based on the selected task, you will be asked to provide the **Document UUID** a
 
 If no new fields open up, then no UUIDs are required.
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/1bc3fe07-1529-42d3-9768-5fb602d2e857" />
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/1bc3fe07-1529-42d3-9768-5fb602d2e857" />
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/8c7f931f-9b9a-4d5c-8519-99aa980e048c" />
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/8c7f931f-9b9a-4d5c-8519-99aa980e048c" />
 
 
 
@@ -42,7 +42,7 @@ The visualizations will be displayed in the **Visualization Area**, as shown in 
 
 You can hover over the visualizations to get more detailed information.
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/65bd9f00-cd76-438c-bad2-b36c300fd046" />
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/65bd9f00-cd76-438c-bad2-b36c300fd046" />
 
 
 
@@ -53,10 +53,15 @@ To generate the graph for **"Also Likes"**, provide the required UUIDs and click
 
 If the PDF does not launch, you can alternatively find the PDF in the same folder as the `CW2.exe` executable file.
 
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/bb603f7e-e4a8-4f5f-8524-47e1f9bd9f79" />
+
+
 ---
 
 ## 6. Viewing the Admin Dashboard
 To view the Admin Dashboard, click on the **"View Admin Dashboard"** button on the top left corner of the application, as shown in Figure 7.
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/c62cd1d9-0d4b-47e5-b058-30f3dce59672" />
 
 ---
 
@@ -66,12 +71,19 @@ To view insights in the Admin Dashboard:
 1. Load a JSON data file by clicking on the **"Load Data"** button in the navigation panel (Figure 8).
 2. Once data is loaded, navigate to different insights using the navigation panel.
 
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/7c0fc8a8-93cb-4b7b-8d53-f9f96e44c38c" />
+
+
 ---
 
 ## 8. Viewing Visualizations in the Admin Dashboard
 - Click on the **"Overview"** button in the navigation panel to see a general overview of the loaded data (Figure 9).
 - Use the **"Next"** and **"Previous"** buttons at the bottom of the visualizations to browse through the visualizations (Figure 10).
 - Click on the **"Table"** button in the navigation panel to view a sorted table of all documents, showing the number of readers and the average time spent reading each document. The table is scrollable for large datasets (Figure 11).
+
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/31e108ca-064a-40d6-a767-bac5704ada2d" />
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/69eee909-19b0-4db4-846c-ecdfc06a2fb6" />
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/1614ec83-d0b4-4241-8c77-217d9d15a9be" />
 
 ---
 
